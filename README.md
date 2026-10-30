@@ -1,4 +1,15 @@
-# AgentX Paper Trader (idea-stage prototype)
+# AgentX Paper Trader
+
+## 🚀 Live Demo
+
+| | Link |
+|---|---|
+| 🌐 **Live Dashboard** | [agentx-paper-trader.vercel.app](https://agentx-paper-trader.vercel.app) |
+| 🐍 **Backend API** | [team-aqvyn.onrender.com](https://team-aqvyn.onrender.com) |
+
+> ⚠️ The backend runs on Render's free tier — it may take ~30 seconds to wake up on the first visit.
+
+---
 
 > **Status: idea-stage prototype for the AgentX Hackathon 2026, PS-02 (agentic paper-trading bot).**
 > Built before the 24-hour round to validate the design and produce real numbers for the idea deck.
