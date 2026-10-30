@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+out/
+data/memory.json
+KILL_SWITCH
+.venv/

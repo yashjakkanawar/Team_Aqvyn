@@ -1,0 +1,10 @@
+Robustness over 30 synthetic markets (310 days each, first 60 are warm-up)
+- Agent: mean +2.81%, median +1.30%, positive in 18/30
+- Buy-and-hold: mean +13.46%, median +7.62%, positive in 21/30
+- Agent beat buy-and-hold in 9/30 markets
+- Rising markets (21): agent +4.53% vs buy-and-hold +24.22%
+- Falling markets (9): agent -1.20% vs buy-and-hold -11.65%
+- Max drawdown: agent -5.6% vs buy-and-hold -15.6% (mean)
+- Fixed 'sma_crossover' (no agent): mean +5.73%, beat buy-and-hold in 10/30
+- Fixed 'rsi_mean_reversion' (no agent): mean +1.79%, beat buy-and-hold in 8/30
+- Fixed 'breakout' (no agent): mean +5.96%, beat buy-and-hold in 10/30
