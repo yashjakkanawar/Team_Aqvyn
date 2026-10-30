@@ -61,7 +61,7 @@ th:first-child,td:first-child{text-align:left}th{color:var(--mute);font-weight:5
 // ── Backend URL ──────────────────────────────────────────────────────────────
 // This is set at build time. After Railway deploys, replace RAILWAY_URL below
 // with your actual Railway URL (e.g. https://your-app.up.railway.app)
-const API = (window.__RAILWAY_API__ || "RAILWAY_URL").replace(/\/$/, "");
+const API = (window.__RAILWAY_API__ || "https://team-aqvyn.onrender.com").replace(/\/$/, "");
 
 const $=id=>document.getElementById(id);let S=null;
 const fmt=x=>'$'+Math.round(x).toLocaleString();const pct=x=>(x>0?'+':'')+x.toFixed(2)+'%';
